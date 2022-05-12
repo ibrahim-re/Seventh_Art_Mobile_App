@@ -1,6 +1,7 @@
 # Seventh Art App
 
-![Screenshot_1652351996](https://user-images.githubusercontent.com/96649190/168060975-c2677a39-9a0d-4886-b0af-4f65760fe08a.png)
+![Screenshot_1652351996](https://user-images.githubusercontent.com/96649190/168061668-68c78215-4e91-4c9d-94fa-dc3801f86751.png)
+
 
 This is a movie store app, it shows all available movies at the store, in addition to the most new movies.
 
