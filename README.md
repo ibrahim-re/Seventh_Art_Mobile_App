@@ -1,4 +1,4 @@
-# Seventh Art App
+# Seventh Art App - Flutter
 
 ![Screenshot_1652351996](https://user-images.githubusercontent.com/96649190/168061668-68c78215-4e91-4c9d-94fa-dc3801f86751.png)
 
